@@ -9,7 +9,7 @@
 Dies ist die persönliche Webseite von **BenniFunkt (13 OT 301)**, Mitglied im **Oscar Tango DX Club**.
 Auf dieser Webseite dreht sich alles um:
 
-- Amateurfunk
+- Funk
 - DX-Verbindungen
 - Funktechnik
 - Station und Equipment
